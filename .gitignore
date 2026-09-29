@@ -2,5 +2,4 @@
 *.log
 .vscode/
 original/
-optimized/
 github-original/
