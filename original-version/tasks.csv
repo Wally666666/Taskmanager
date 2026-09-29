@@ -1,0 +1,11 @@
+id,title,priority,due_date,status,assigned_student_ids
+1000,Finish personal project Project 1,High,20/05/2026,Done,100,101,102,103
+1001,Team Project Meeting Prep,Medium,18/05/2026,Done,103
+1002,Code Review Session,High,22/05/2026,Done,100,103,105
+1003,Write Final Project Report,Medium,25/05/2026,Done,101,104
+1004,Presentation Slides Preparation,High,28/05/2026,Done,104,103,100
+1005,User Testing Session,Low,30/05/2026,To-Do,105,100
+1006,Project 1 Review,Medium,21/05/2026,Done,101,102,104
+1007,Project Proposal Finalization,High,19/05/2026,Done,100,101,103
+1008,Final Exam Study Guide Compilation,Medium,06/06/2026,To-Do,100,102,105
+1009,Project Demo Rehearsal,High,08/06/2026,To-Do,101,103,104
