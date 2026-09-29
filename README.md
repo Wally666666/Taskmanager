@@ -5,7 +5,7 @@ This repository records the first iteration of a personal C++ task-management pr
 ## Iterations
 
 - `original-version/` — a cleaned public copy of the original implementation. It preserves the original program structure and behavior while removing local build outputs and course-specific references.
-- The improved implementation is currently kept locally in `optimized/` for continued review before a later release.
+- `optimized-version/` contains the improved implementation for side-by-side review. The working copy remains locally in `optimized/` for continued development.
 
 The complete untouched snapshot is retained locally in `original/` and is not modified.
 
@@ -23,4 +23,4 @@ The project uses C++20 and SplashKit. See `original-version/README.md` for the o
 
 ## Iteration plan
 
-The next iteration will focus on safer ownership in the linked-list implementation, clearer project structure, stronger input validation, and portable build configuration. Changes will be reviewed locally before they are published.
+Future iterations will focus on stronger input validation, clearer ownership rules, and portable build configuration.
